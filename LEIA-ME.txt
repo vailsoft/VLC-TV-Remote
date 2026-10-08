@@ -1,0 +1,21 @@
+VLC TV REMOTE V1.5
+
+CORREÇÃO:
+- Corrigido o erro NameError: name 'vlc' is not defined.
+- A instância do VLC agora é criada corretamente antes do servidor iniciar.
+
+RECURSOS:
+- Nome do vídeo/episódio atual no celular.
+- Episódio atual destacado na playlist.
+- Avanço de 30 segundos.
+- Retorno de 30 segundos.
+- Mudo sem erro de JSON.
+- Próximo/anterior.
+- Volume.
+- Tela cheia.
+
+COMO USAR:
+1. Extraia o ZIP.
+2. Feche qualquer versão anterior do VLC TV Remote.
+3. Execute INICIAR_VLC_TV.bat.
+4. Abra no celular o endereço mostrado.
